@@ -1,0 +1,9 @@
+{
+	"homepage": "",
+	"promos": {
+		"1.15.2-latest": "5.0.0",
+		"1.15.2-recommended": "5.0.0",
+    "1.16.5-latest": "5.0.0",
+		"1.16.5-recommended": "5.0.0"
+	}
+}
