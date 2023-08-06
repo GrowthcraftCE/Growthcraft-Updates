@@ -15,6 +15,7 @@
     "1.18.2-recommended": "7.0.0",
     "1.19.4-latest": "8.0.11",
     "1.19.4-recommended": "8.0.11",
-		"1.20.1-latest": "9.0.0-snapshot"
+    "1.20.1-latest": "9.0.4",
+    "1.20.1-recommended": "9.0.3"
   }
 }
